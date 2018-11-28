@@ -5,6 +5,7 @@ A simple script written in python that check if an username is available on Tele
 - argparse
 - time
 # Usage
+You can run the script by doing:
 ```
 python UNChecker.py -wl Wordlist
 ```
