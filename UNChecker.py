@@ -3,7 +3,6 @@
 import requests
 import argparse
 import time
-import threading
 
 parser = argparse.ArgumentParser(description='This script can check if an username is available or occupied on Telegram\n Created by l0gica(github.com/l0gica) and TheDepa(github.com/depa31)')
 parser.add_argument('-wl', '-wordlist', required=True, help='Select the wordlist to use')
